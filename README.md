@@ -8,3 +8,9 @@ https://medium.com/front-end-hacking/browser-push-notifications-using-javascript
 
 #### Memory & CPU consumption monitoring in Linux
 http://dag.wiee.rs/home-made/dstat/
+
+#### AWS in Plain English
+https://www.expeditedssl.com/aws-in-plain-english
+
+#### AWS complete guide
+https://github.com/open-guides/og-aws

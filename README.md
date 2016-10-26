@@ -14,3 +14,6 @@ https://www.expeditedssl.com/aws-in-plain-english
 
 #### AWS complete guide
 https://github.com/open-guides/og-aws
+
+#### Database refactoring - for continue integration and 0 downtime for database migration
+http://databaserefactoring.com

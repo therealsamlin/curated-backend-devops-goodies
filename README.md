@@ -17,3 +17,6 @@ https://github.com/open-guides/og-aws
 
 #### Database refactoring - for continue integration and 0 downtime for database migration
 http://databaserefactoring.com
+
+#### Review/Usage of techonologies out in the market
+http://stackshare.io/

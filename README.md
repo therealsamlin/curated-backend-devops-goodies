@@ -20,3 +20,6 @@ http://databaserefactoring.com
 
 #### Review/Usage of techonologies out in the market
 http://stackshare.io/
+
+#### Stress testing Auto Scaling Group
+http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/

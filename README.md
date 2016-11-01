@@ -2,7 +2,7 @@
 
 ## Browser Tools
 
-#### Syntax highlighting on chrome for bitbucket
+*Syntax highlighting on chrome for bitbucket*
 https://chrome.google.com/webstore/detail/refined-bitbucket/afppminkfnfngihdocacbgeajbbdklkf
 
 #### Browser push notifications using JavaScript

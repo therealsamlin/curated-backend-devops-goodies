@@ -36,3 +36,6 @@ https://www.intercom.com/
 ## General
 ##### Review/Usage of techonologies out in the market
 http://stackshare.io/
+
+#### Stress testing/ Load testing
+http://loader.io/

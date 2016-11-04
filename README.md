@@ -23,9 +23,11 @@ https://github.com/open-guides/og-aws
 ##### Database refactoring - for continue integration and 0 downtime for database migration
 http://databaserefactoring.com
 
-##### Stress testing Auto Scaling Group
+##### Stress testing (completely free)
 http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/
 
+#### Stress testing/ Load testing (more comprehensive)
+http://loader.io/
 
 ## Plugins
 
@@ -37,5 +39,4 @@ https://www.intercom.com/
 ##### Review/Usage of techonologies out in the market
 http://stackshare.io/
 
-#### Stress testing/ Load testing
-http://loader.io/
+

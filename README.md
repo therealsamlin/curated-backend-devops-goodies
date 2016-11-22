@@ -43,6 +43,6 @@ https://www.intercom.com/
 http://stackshare.io/
 
 #### List of Computer Science courses with video lectures.
-https://github.com/Developer-Y/cs-video-courses?utm_campaign=explore-email&utm_medium=email&utm_source=newsletter&utm_term=weekly#introduction-to-computer-science
+https://github.com/Developer-Y/cs-video-courses
 
 

@@ -12,6 +12,10 @@ https://medium.com/front-end-hacking/browser-push-notifications-using-javascript
 ### Books
 ##### Microservice Architecture - Irakli Nadareishvili, Ronnie Mitra, Matt McLarty & Mike Amundsen
 
+## Frontend Knowledge
+##### Visual guide to CSS
+http://cssreference.io/
+
 ## DevOps
 
 ##### Memory & CPU consumption monitoring in Linux

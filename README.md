@@ -56,7 +56,7 @@ Unattended-Upgrade::Automatic-Reboot "true";
 Unattended-Upgrade::Automatic-Reboot-Time "01:00";
 ```
 
-### If it isn't, then instead create a cron job to reboot as often as you'd like updates installed. In this case, we'd recommend once a week (http://www.cronmaker.com/)
+##### If it isn't, then instead create a cron job to reboot as often as you'd like updates installed. In this case, we'd recommend once a week (http://www.cronmaker.com/)
 ```
 #launch cron manager for root
 sudo crontab -e

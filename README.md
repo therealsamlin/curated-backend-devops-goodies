@@ -33,8 +33,37 @@ http://databaserefactoring.com
 ##### Stress testing (completely free)
 http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/
 
-#### Stress testing/ Load testing (more comprehensive)
+#### Stress testing/ Load testing (more comprehensive, free for one host)
 http://loader.io/
+
+#### Ubuntu Auto Upgrade - security packaged 
+##### Install
+`sudo apt-get install unattended-upgrades apt-listchanges`
+##### Reconfigure
+`sudo dpkg-reconfigure -plow unattended-upgrades`
+##### Update config files
+```
+/etc/apt/apt.conf.d/20auto-upgrades
+APT::Periodic::Update-Package-Lists "1";
+APT::Periodic::Download-Upgradeable-Packages "1";
+APT::Periodic::Unattended-Upgrade "1";
+APT::Periodic::AutocleanInterval "7";
+```
+##### If auto reboot on a day by day basis is acceptable, then uncomment the following lines and update appropriately.
+```
+/etc/apt/apt.conf.d/50unattended-upgrades
+Unattended-Upgrade::Automatic-Reboot "true";
+Unattended-Upgrade::Automatic-Reboot-Time "01:00";
+```
+
+### If it isn't, then instead create a cron job to reboot as often as you'd like updates installed. In this case, we'd recommend once a week (http://www.cronmaker.com/)
+```
+#launch cron manager for root
+sudo crontab -e
+ 
+#install a reboot to run once a week on Sunday at 1am.
+0 1 * * 0 /sbin/reboot -h
+```
 
 ## Plugins
 

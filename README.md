@@ -78,4 +78,10 @@ http://stackshare.io/
 ##### List of Computer Science courses with video lectures.
 https://github.com/Developer-Y/cs-video-courses
 
+##### General Nginx Knowledge
+Understanding Nginx Server and Location Block Selection Algorithms
+https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
+
+Understanding and Implementing FastCGI Proxying in Nginx
+https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
 

@@ -70,7 +70,6 @@ sudo crontab -e
 ##### Intercom - plug and play chat app for websites
 https://www.intercom.com/
 
-
 ## General
 ##### Review/Usage of techonologies out in the market
 http://stackshare.io/
@@ -85,3 +84,7 @@ https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-
 Understanding and Implementing FastCGI Proxying in Nginx
 https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
 
+## Frontend
+
+##### Datepicker - flatpickr with themes and mobile support
+https://chmln.github.io/flatpickr/

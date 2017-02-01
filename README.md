@@ -16,6 +16,16 @@ https://medium.com/front-end-hacking/browser-push-notifications-using-javascript
 ##### Visual guide to CSS
 http://cssreference.io/
 
+## Testing
+##### Generates php code graph to pinpoint bottleneck of the app. Mainly used to enhance app performance.
+https://blackfire.io/
+
+##### Stress testing (completely free)
+http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/
+
+#### Stress testing/ Load testing (more comprehensive, free for one host)
+http://loader.io/
+
 ## DevOps
 
 ##### Memory & CPU consumption monitoring in Linux
@@ -30,11 +40,6 @@ https://github.com/open-guides/og-aws
 ##### Database refactoring - for continue integration and 0 downtime for database migration
 http://databaserefactoring.com
 
-##### Stress testing (completely free)
-http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/
-
-#### Stress testing/ Load testing (more comprehensive, free for one host)
-http://loader.io/
 
 #### Ubuntu Auto Upgrade - security packaged 
 ##### Install

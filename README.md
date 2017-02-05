@@ -86,8 +86,11 @@ https://github.com/Developer-Y/cs-video-courses
 Understanding Nginx Server and Location Block Selection Algorithms
 https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
 
-Understanding and Implementing FastCGI Proxying in Nginx
+##### Understanding and Implementing FastCGI Proxying in Nginx
 https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
+
+##### Take screenshot of site in dimension specified
+https://github.com/sindresorhus/pageres-cli
 
 ## Frontend
 

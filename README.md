@@ -96,3 +96,16 @@ https://github.com/sindresorhus/pageres-cli
 
 ##### Datepicker - flatpickr with themes and mobile support
 https://chmln.github.io/flatpickr/
+
+## Analytics
+
+##### Covers the following.
+* Loading analytics.js
+* Tracking custom data
+* Error tracking
+* Performance tracking
+* Using autotrack plugins
+* Testing your implementation
+* Filtering out local/spam data
+* Reporting and visualizing your data
+https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/

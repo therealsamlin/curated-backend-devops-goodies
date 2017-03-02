@@ -1,5 +1,9 @@
 # List-of-Goodies
 
+## Web Scrapers
+##### screen scraping and web crawling library for PHP. Supports HTML/XML
+https://github.com/FriendsOfPHP/Goutte
+
 ## Browser Tools
 
 ##### Syntax highlighting on chrome for bitbucket

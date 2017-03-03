@@ -104,6 +104,9 @@ http://asciiflow.com/
 ##### Datepicker - flatpickr with themes and mobile support
 https://chmln.github.io/flatpickr/
 
+##### Cute avatar generator for frontend demo
+http://avatars.adorable.io
+
 ## Analytics
 
 ##### Covers the following.

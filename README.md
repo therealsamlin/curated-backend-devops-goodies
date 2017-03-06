@@ -16,6 +16,14 @@ https://medium.com/front-end-hacking/browser-push-notifications-using-javascript
 ### Books
 ##### Microservice Architecture - Irakli Nadareishvili, Ronnie Mitra, Matt McLarty & Mike Amundsen
 
+### vhost
+##### General Nginx Knowledge
+Understanding Nginx Server and Location Block Selection Algorithms
+https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
+
+##### Understanding and Implementing FastCGI Proxying in Nginx
+https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
+
 ## Frontend Knowledge
 ##### Visual guide to CSS
 http://cssreference.io/
@@ -86,18 +94,56 @@ http://stackshare.io/
 ##### List of Computer Science courses with video lectures.
 https://github.com/Developer-Y/cs-video-courses
 
-##### General Nginx Knowledge
-Understanding Nginx Server and Location Block Selection Algorithms
-https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
-
-##### Understanding and Implementing FastCGI Proxying in Nginx
-https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
-
 ##### Take screenshot of site in dimension specified
 https://github.com/sindresorhus/pageres-cli
 
-#### creates ascii graph by dragging lines
+
+
+## Graphing Tools
+##### creates ascii graph by dragging lines
 http://asciiflow.com/
+
+##### draws ASCII diagrams that allows you to paste it in a comment block or readme file
+https://monodraw.helftone.com/
+                    ┌─────────────────────────┐
+                    │Sources: Statsd, Collectd│
+                    │          etc.           │
+                    └─────────────────────────┘
+                                 │
+                                 ▼
+ ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                             AWS ELB                            │
+ └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                                 │
+             ┌───────────────────┴───────────────────┐
+             ▼                                       ▼
+ ┌───────────────────────┐               ┌───────────────────────┐
+ │                       │               │                       │
+ │       Polymur A       │               │       Polymur B       │
+ │                       │               │                       │
+ └───────────────────────┘               └───────────────────────┘
+             │                                       │
+             ├───────────────────────────────────────┤
+             ▼                                       ▼
+ ┌───────────────────────┐               ┌───────────────────────┐
+ │                       │               │                       │
+ │      Graphite A       │◀─────────────▶│      Graphite B       │
+ │                       │               │                       │
+ └───────────────────────┘               └───────────────────────┘
+             ▲                                       ▲
+             └───────────────────┬───────────────────┘
+                                 │
+ ┌ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                             AWS ELB                            │
+ └ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─ ─
+                                 ▲
+                                 │
+                 ┌───────────────────────────────┐
+                 │                               │
+                 │            Grafana            │
+                 │                               │
+                 └───────────────────────────────┘
+
 
 ## Frontend
 

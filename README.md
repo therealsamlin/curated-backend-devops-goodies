@@ -105,6 +105,7 @@ http://asciiflow.com/
 
 ##### draws ASCII diagrams that allows you to paste it in a comment block or readme file
 https://monodraw.helftone.com/
+```
                     ┌─────────────────────────┐
                     │Sources: Statsd, Collectd│
                     │          etc.           │
@@ -143,6 +144,7 @@ https://monodraw.helftone.com/
                  │            Grafana            │
                  │                               │
                  └───────────────────────────────┘
+```
 
 
 ## Frontend

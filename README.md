@@ -87,17 +87,6 @@ sudo crontab -e
 ##### Intercom - plug and play chat app for websites
 https://www.intercom.com/
 
-## General
-##### Review/Usage of techonologies out in the market
-http://stackshare.io/
-
-##### List of Computer Science courses with video lectures.
-https://github.com/Developer-Y/cs-video-courses
-
-##### Take screenshot of site in dimension specified
-https://github.com/sindresorhus/pageres-cli
-
-
 
 ## Graphing Tools
 ##### creates ascii graph by dragging lines
@@ -172,3 +161,12 @@ https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site
 
 ##### Becoming a better programmer
 http://jlongster.com/How-I-Became-Better-Programmer
+
+##### Review/Usage of techonologies out in the market
+http://stackshare.io/
+
+##### List of Computer Science courses with video lectures.
+https://github.com/Developer-Y/cs-video-courses
+
+##### Take screenshot of site in dimension specified
+https://github.com/sindresorhus/pageres-cli

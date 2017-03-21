@@ -167,3 +167,8 @@ http://avatars.adorable.io
 * Filtering out local/spam data
 * Reporting and visualizing your data
 https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
+
+## General
+
+##### Becoming a better programmer
+http://jlongster.com/How-I-Became-Better-Programmer

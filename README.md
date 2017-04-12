@@ -181,3 +181,6 @@ https://7geese.com/
 
 ##### Presentation Tool (mac)
 https://www.decksetapp.com/
+
+##### 100k emails for free - sparkpost
+https://www.sparkpost.com/pricing/

@@ -17,6 +17,15 @@ https://medium.com/front-end-hacking/browser-push-notifications-using-javascript
 https://www.npmjs.com/package/drakov
 
 ## Backend Knowledge
+
+### Optimisation
+##### Composer autoload optimisation
+https://getcomposer.org/doc/articles/autoloader-optimization.md
+
+##### PHP cache optimisation
+https://github.com/appstract/laravel-opcache
+https://medium.com/appstract/make-your-laravel-app-fly-with-php-opcache-9948db2a5f93
+
 ### Books
 ##### Microservice Architecture - Irakli Nadareishvili, Ronnie Mitra, Matt McLarty & Mike Amundsen
 
@@ -29,6 +38,9 @@ https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-
 https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
 
 ## Frontend Knowledge
+### Image optimisation 
+https://imageoptim.com/mac
+
 ##### Visual guide to CSS
 http://cssreference.io/
 

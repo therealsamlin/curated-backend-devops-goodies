@@ -54,6 +54,9 @@ http://www.hecticgeek.com/2012/11/stress-test-your-ubuntu-computer-with-stress/
 ##### Stress testing/ Load testing (more comprehensive, free for one host)
 http://loader.io/
 
+#### Email testing
+https://mailtrap.io/
+
 ## DevOps
 
 ##### Memory & CPU consumption monitoring in Linux

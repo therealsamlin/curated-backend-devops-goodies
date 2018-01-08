@@ -16,7 +16,8 @@ https://medium.com/front-end-hacking/browser-push-notifications-using-javascript
 ##### API Blueprint tester - mocks as server from your api blueprint documentation
 https://www.npmjs.com/package/drakov
 
-## Backend Knowledge
+### 17 Tips for Using Composer Efficiently
+https://blog.martinhujer.cz/17-tips-for-using-composer-efficiently/
 
 ### Optimisation
 ##### Composer autoload optimisation

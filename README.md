@@ -178,6 +178,8 @@ http://avatars.adorable.io
 https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
 
 ## General
+##### Phpstorm tips
+http://phpstorm.tips/tips
 
 ##### Becoming a better programmer
 http://jlongster.com/How-I-Became-Better-Programmer

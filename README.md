@@ -38,6 +38,9 @@ https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-
 ##### Understanding and Implementing FastCGI Proxying in Nginx
 https://www.digitalocean.com/community/tutorials/understanding-and-implementing-fastcgi-proxying-in-nginx
 
+### Manage node version
+https://github.com/tj/n
+
 ## Frontend Knowledge
 ### Image optimisation 
 https://imageoptim.com/mac

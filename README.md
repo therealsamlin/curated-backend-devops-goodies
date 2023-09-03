@@ -105,6 +105,14 @@ sudo crontab -e
 0 1 * * 0 /sbin/reboot -h
 ```
 
+## Linux
+
+Linux commands mindmap
+![linux commands](img/linux-xmind.png)
+https://xmind.app/m/WwtB/
+
+
+
 ## Plugins
 
 ##### Intercom - plug and play chat app for websites
@@ -179,6 +187,45 @@ http://avatars.adorable.io
 * Filtering out local/spam data
 * Reporting and visualizing your data
 https://philipwalton.com/articles/the-google-analytics-setup-i-use-on-every-site-i-build/
+
+## Kubernetes
+
+##### Lens IDE
+
+Lens is a kubernetes IDE made by Kontena, Inc. It's an open-source application that runs on macOS, Linux, and Windows
+
+Ever since I've discovered Lens I've been using it religiously, so far I'm around 6 months into using the tool and the experience has been phenomenal 
+
+There are 2 available themes for Lens: 
+
+1. Light theme
+2. Dark theme
+
+Personally I like the dark theme, it kinda reminds me of discord, the user experience is great and self-explanatory
+
+
+Lens has multi-cluster support which is super useful, allegedly you can run hundreds of clusters at the same time 
+which is a great feature and saves time from switching in abetween context
+
+At a quick glance you have all the resources available at the left hand bar, from pods to deployments, 
+from configmaps to service.
+
+You'd even get a list of custom resources available to choose from.
+
+Going into the pod section, Lens allows you to view logs of the containers and attach to it, 
+if you have a lot of pods in the cluster you can filter by namespace and search on keywords
+
+You'd also be able to edit resources on the fly, which is really useful if you're quickly updating a change 
+esp for quick testing purposes.
+
+With the CRD section if you're running istio on your cluster you'd be able to Edit your virtualservices entry too
+
+
+Overall I really like this tool and it has greatly boosted my efficiency while working with kubernetes clusters. 
+
+
+
+
 
 ## General
 ##### Phpstorm tips

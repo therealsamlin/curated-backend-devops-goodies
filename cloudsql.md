@@ -23,6 +23,9 @@ CALL mysql.cloudsql_create_audit_rule('*','production_db','financial_data','dml'
 -- Exclude high-volume service accounts
 CALL mysql.cloudsql_create_audit_rule('`app_service`@`*`','*','*','*','B',0,@outval,@outmsg);
 
+-- Exclude routine maintenance query
+CALL mysql.cloudsql_create_audit_rule('*','mysql','heartbeat','insert','B',0,@outval,@outmsg);
+
 -- Reload audit rule so it'll take effect
 CALL mysql.cloudsql_reload_audit_rule(1);
 
